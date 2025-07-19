@@ -10,7 +10,7 @@ It features a stylish 3D-inspired interface, turn-by-turn logic, responsive layo
 
 ## 🔗 Live Demo
 
-👉 [Play Now](https://saffiullah1314.github.io/Tic-Tac-Toe-Classic-2-Player-Game-with-3D-Style/)  
+👉 [Play Now](https://saffiullah1314.github.io/Tic-Tac-Toe/)  
 
 ---
 
